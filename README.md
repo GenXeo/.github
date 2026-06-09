@@ -1,14 +1,9 @@
-# GenXeo Framework
+# Organization Profile
 
-GenXeo is the AI visibility and XEO framework developed by IndexMesh.
+This repository controls the public GitHub organization profile for this reserved IndexMesh namespace.
 
-Primary organization:
-👉 https://github.com/indexmesh
+The public-facing organization copy lives in:
 
-The GenXeo framework powers systems for:
-- GEO
-- AEO
-- XEO
-- AI visibility optimization
-- citation intelligence
-- search experience infrastructure
+`profile/README.md`
+
+Active IndexMesh development and canonical documentation live under [github.com/indexmesh](https://github.com/indexmesh).
